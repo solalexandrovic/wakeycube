@@ -1,8 +1,8 @@
 # WakeyCube
 
-WakeyCube is an IoT smart device designed to transform the way users interact with their daily routines.
+WakeyCube is a smart IoT bedside device designed to transform the way users interact with their daily routines.
 
-It combines a physical cube with a web application, allowing real-time control of alarms, lighting, vibration and interactive wake-up experiences.
+It combines a physical cube with a web application, enabling real-time control of alarms, lighting, vibration and interactive wake-up experiences.
 
 ---
 
@@ -10,7 +10,8 @@ It combines a physical cube with a web application, allowing real-time control o
 
 Traditional alarms are passive.
 
-WakeyCube turns waking up into an interactive experience through light, sound, motion and small challenges that require user engagement.
+WakeyCube rethinks the waking experience by combining digital configuration with physical interaction.  
+Users engage with light, sound, motion and small challenges to build more effective and intentional routines.
 
 ---
 
@@ -18,7 +19,7 @@ WakeyCube turns waking up into an interactive experience through light, sound, m
 
 The system connects a web application with a physical ESP32 device using Firebase Realtime Database.
 
-User-defined scenes are created in the app and executed in real time on the device.
+User-defined scenes are created in the app and executed in real time on the device, translating digital actions into physical responses.
 
 ---
 
@@ -51,17 +52,19 @@ User-defined scenes are created in the app and executed in real time on the devi
 ---
 
 ## 📂 Project Structure
-```wakeycube/
-├── app/ # React application (UI)
-│ ├── src/
-│ ├── public/
-│ └── package.json
-│
-├── hardware/ # ESP32 firmware
-│ ├── src/
-│ │ └── main.cpp
-│ └── platformio.ini```
 
+```
+wakeycube/
+├── app/        # React application (UI)
+│   ├── src/
+│   ├── public/
+│   └── package.json
+│
+├── hardware/   # ESP32 firmware
+│   ├── src/
+│   │   └── main.cpp
+│   └── platformio.ini
+```
 
 ---
 
@@ -74,11 +77,11 @@ However, the full system logic and structure are preserved for demonstration pur
 
 ## 👩‍💻 Authors
 
-- Sol Alexandrovic  
-- Belén Arís  
+- [Sol Alexandrovic](https://github.com/tu-usuario)  
+- [Belén Arís](https://github.com/su-usuario)  
 
 ---
 
 ## 🔗 Links
 
-Behance: https://www.behance.net/solalexandrovic
+Behance: (ponés tu link cuando lo subas)  
