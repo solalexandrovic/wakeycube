@@ -77,8 +77,8 @@ However, the full system logic and structure are preserved for demonstration pur
 
 ## 👩‍💻 Authors
 
-- [Sol Alexandrovic](https://github.com/tu-usuario)  
-- [Belén Arís](https://github.com/su-usuario)  
+- [Sol Alexandrovic](https://github.com/solalexandrovic)  
+- [Belén Arís](https://github.com/beluaris-coder)  
 
 ---
 
