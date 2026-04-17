@@ -50,4 +50,35 @@ User-defined scenes are created in the app and executed in real time on the devi
 
 ---
 
-## 📌 Project Structure
+## 📂 Project Structure
+```wakeycube/
+├── app/ # React application (UI)
+│ ├── src/
+│ ├── public/
+│ └── package.json
+│
+├── hardware/ # ESP32 firmware
+│ ├── src/
+│ │ └── main.cpp
+│ └── platformio.ini```
+
+
+---
+
+## ⚠️ Note
+
+The Firebase instance is no longer active.  
+However, the full system logic and structure are preserved for demonstration purposes.
+
+---
+
+## 👩‍💻 Authors
+
+- Sol Alexandrovic  
+- Belén Arís  
+
+---
+
+## 🔗 Links
+
+Behance: https://www.behance.net/solalexandrovic
